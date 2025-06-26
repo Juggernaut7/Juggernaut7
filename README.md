@@ -1,10 +1,10 @@
-### 👋 Hi there, I’m @Juggernaut7
+###  Hi there, I’m @Juggernaut7
 
 I'm **Abdulkabir**, a passionate and curious full-stack developer, UI/UX designer, and tech enthusiast from west africa. I love turning ideas into clean, scalable, and impactful digital products.
 
 ---
 
-### 👀 I’m interested in:
+###  I’m interested in:
 - Full-stack web development (MERN Stack)
 - Building tools that help developers grow
 - Web3 and blockchain (Solidity, non-custodial wallets)
@@ -14,13 +14,13 @@ I'm **Abdulkabir**, a passionate and curious full-stack developer, UI/UX designe
 ---
 
 ### 💻 My current project:
-🔥 **DevPath** – A powerful developer blogging and learning platform  
+ **DevPath** – A powerful developer blogging and learning platform  
 > Features include: user-auth, rich text editor, interactive code playground, AI-powered help, community discussions, and more.  
 > Tech Stack: MERN, Vanilla CSS (for now), moving into advanced tooling gradually.
 
 ---
 
-### 💞️ I’m looking to collaborate on:
+### I’m looking to collaborate on:
 - Developer tools, blog engines, or web3-enabled platforms  
 - Projects that encourage learning, community, and open-source contributions  
 - Anything creative that pushes my skills beyond the comfort zone
@@ -34,13 +34,13 @@ I'm **Abdulkabir**, a passionate and curious full-stack developer, UI/UX designe
 
 ---
 
-### 😄 Pronouns:
+###  Pronouns:
 He/Him
 
 ---
 
-### ⚡ Fun fact:
-I'm building **DevPath** not just as a blog — but as a developer growth engine. It's my way of documenting, learning, teaching, and building a dev-centered community 🚀
+###  Fun fact:
+I'm building **DevPath** not just as a blog — but as a developer growth engine. It's my way of documenting, learning, teaching, and building a dev-centered community 
 
 ---
 
