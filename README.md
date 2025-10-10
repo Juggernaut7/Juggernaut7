@@ -1,50 +1,73 @@
-###  Hi there, I’m @Juggernaut7
-
-I'm **Abdulkabir**, a passionate and curious full-stack developer, UI/UX designer, and tech enthusiast from west africa. I love turning ideas into clean, scalable, and impactful digital products.
-
----
-
-###  I’m interested in:
-- Full-stack web development (MERN Stack)
-- Building tools that help developers grow
-- Web3 and blockchain (Solidity, non-custodial wallets)
-- UI/UX design and user-centered development
-- Open source collaboration and documentation
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=29F7E1&center=true&vCenter=true&width=435&lines=Hey!+I'm+Abdulkabir+(Juggernaut)+👋;Full+Stack+%2B+Web3+Developer;Always+Learning%2C+Building%2C+Shipping!" alt="Typing Animation" />
+</h1>
 
 ---
 
-### 💻 My current project:
- **DevPath** – A powerful developer blogging and learning platform  
-> Features include: user-auth, rich text editor, interactive code playground, AI-powered help, community discussions, and more.  
-> Tech Stack: MERN, Vanilla CSS (for now), moving into advanced tooling gradually.
+### 🚀 About Me  
+I'm **Abdulkabir Lawal**, a full-stack & Web3 developer from **Lagos, Nigeria 🇳🇬**.  
+Passionate about building scalable products that bridge **Web2 and Web3**, and helping devs grow through open source, learning, and collaboration.
 
 ---
 
-### I’m looking to collaborate on:
-- Developer tools, blog engines, or web3-enabled platforms  
-- Projects that encourage learning, community, and open-source contributions  
-- Anything creative that pushes my skills beyond the comfort zone
+### 🧠 Currently Exploring
+- 🧩 **Full Stack Development** (React, Next.js, Node.js, Express, MongoDB)
+- 🪙 **Blockchain & Smart Contracts** (Solidity, Ethers.js, Web3.js)
+- 🧵 **TypeScript**, **RESTful APIs**, **Auth Systems**, and **DevOps Basics**
+- 🌐 **Open Source & Community Building**
 
 ---
 
-### 📫 How to reach me:
-- Twitter: [@kaybee77770]()
-- Email: abdulkabir0600@gmail.com
-- LinkedIn: [linkedin.com/in/abdulkabir](https://linkedin.com/in/abdulkabir)
+### ⚙️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,solidity,mongodb,tailwind,html,css,javascript,git,github,vscode,figma" />
+</p>
 
 ---
 
-###  Pronouns:
-He/Him
+### 🧩 Featured Projects
+| Project | Description | Stack |
+|----------|--------------|-------|
+| **DevPath** | A developer-focused learning & blogging platform with AI, interactive code playground, and progress tracking. | MERN, CSS, AI |
+| **CredProof** | A Web3 credential verification platform for minting verifiable NFTs as proof of skill or contribution. | React, Solidity, IPFS, Node.js |
+| **LoopFund** | A decentralized savings pool dApp for community funding. | React, Smart Contracts |
+| **TaskVault** | A productivity web app with local storage, dark mode, and export features. | HTML, CSS, JS |
 
 ---
 
-###  Fun fact:
-I'm building **DevPath** not just as a blog — but as a developer growth engine. It's my way of documenting, learning, teaching, and building a dev-centered community 
+### 📊 GitHub Stats
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Juggernaut7&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juggernaut7&layout=compact&theme=tokyonight&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juggernaut7&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<!---
-Juggernaut7/Juggernaut7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏆 Achievements
+- 💪 Graduated from **DLT Africa Bootcamp (Cohort 6)** as a Full Stack Developer  
+- 🧩 Completed **30 Days of Building Challenge** by DLT Africa (30 projects in 30 days!)  
+- 🚀 Contributed to open-source & Web3 communities  
+- 🧱 Built 60+ repositories — from mini projects to full-stack dApps  
+- 🌍 Active participant in hackathons like **Kaia Stablecoin**, **Circle Dev Bounty**
+
+---
+
+### 💬 Let’s Connect
+<p align="center">
+  <a href="https://x.com/kaybee77770"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/Juggernaut7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:abdulkabir0600@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/juggernaut.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdulkabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🎨 Fun Fact  
+> “I don’t just code projects — I build ecosystems.”  
+
+![Profile Views](https://komarev.com/ghpvc/?username=Juggernaut7&label=Profile%20Views&color=0e75b6&style=flat)
