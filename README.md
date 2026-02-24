@@ -1,4 +1,4 @@
-<!-- ======================== PROFILE HEADER ======================== -->
+<!-- PROFILE HEADER -->
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=760&lines=Hey+there!+I'm+Abdulkabir+Lawal;Full-Stack+and+Web3+Developer;Open-Source+Contributor+and+Blockchain+Innovator;Building+Advanced+dApps+and+Developer+Tools;Documenting+the+Journey+Through+Code"
@@ -21,53 +21,37 @@ Tech Stack and Tools<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,solidity,rust,git,github,vscode,figma,ipfs,vercel,netlify,python,postman,docker,solana" />
 </p>
 
-Featured ProjectsHere are some of my standout projects, showcasing full-stack development and Web3 innovation:Project
-Description
-Stack
-Stars
-Link
-LoopFund
-Decentralized savings pool dApp for collaborative funding and goal tracking.
-React + Smart Contracts (Solidity)
-1
-View Repo
-NexaVita
-Privacy-first decentralized health data marketplace on Starknet, using ZK proofs and homomorphic encryption.
-TypeScript + Starknet + Encryption Libraries
--
-View Repo
-Diverse-Trading-Analytics-Dashboard
-On-chain trading analytics platform for Solana's Deriverse Protocol, offering real-time position tracking.
-TypeScript + Solana SDK
--
-View Repo
-Color-Match-Rush
-Fast-paced color-matching game with Celo MiniPay wallet integration for paid rounds and rewards.
-TypeScript + Celo SDK
-2
-View Repo
-TX-Alert
-Lightweight Solana wallet transaction monitor with real-time notifications via polling.
-JavaScript + Solana Web3.js
-1
-View Repo
-Convex
-Optimized DeFi yield aggregator for efficient asset management on blockchain networks.
-Solidity + Rust (Anchor)
--
-View Repo
-VibeQuorum
-Decentralized governance platform for community decision-making and proposal voting.
-React + Solidity + IPFS
--
-View Repo
-TaskVault
-Browser-based task manager with export features, dark mode, and local storage persistence.
-HTML + CSS + JavaScript
--
-View Repo
-
-Current Focus (2026)"Innovating. Collaborating. Scaling."Deepening expertise in multi-chain Web3 development (Solana, Starknet, Celo)  
+Featured ProjectsHere are some of my standout projects, showcasing full-stack development and Web3 innovation. Each project includes a brief description, tech stack, and a link to the repository.LoopFundDescription: Decentralized savings pool dApp for collaborative funding and goal tracking.
+Stack: React + Smart Contracts (Solidity)
+Stars: 1
+View RepoNexaVitaDescription: Privacy-first decentralized health data marketplace on Starknet, using ZK proofs and homomorphic encryption.
+Stack: TypeScript + Starknet + Encryption Libraries
+Stars: -
+View RepoDiverse-Trading-Analytics-DashboardDescription: On-chain trading analytics platform for Solana's Deriverse Protocol, offering real-time position tracking.
+Stack: TypeScript + Solana SDK
+Stars: -
+View RepoColor-Match-RushDescription: Fast-paced color-matching game with Celo MiniPay wallet integration for paid rounds and rewards.
+Stack: TypeScript + Celo SDK
+Stars: 2
+View RepoTX-AlertDescription: Lightweight Solana wallet transaction monitor with real-time notifications via polling.
+Stack: JavaScript + Solana Web3.js
+Stars: 1
+View RepoConvexDescription: Optimized DeFi yield aggregator for efficient asset management on blockchain networks.
+Stack: Solidity + Rust (Anchor)
+Stars: -
+View RepoVibeQuorumDescription: Decentralized governance platform for community decision-making and proposal voting.
+Stack: React + Solidity + IPFS
+Stars: -
+View RepoTaskVaultDescription: Browser-based task manager with export features, dark mode, and local storage persistence.
+Stack: HTML + CSS + JavaScript
+Stars: -
+View RepoNexaPay-Savings-ProgramDescription: Savings program built on Solana for decentralized financial management.
+Stack: Rust
+Stars: -
+View RepoSolana-HTTP-ServerDescription: HTTP server implementation for Solana-based applications.
+Stack: Rust
+Stars: -
+View RepoCurrent Focus (2026)"Innovating. Collaborating. Scaling."Deepening expertise in multi-chain Web3 development (Solana, Starknet, Celo)  
 Building privacy-enhanced dApps and DeFi tools with ZK technology  
 Prioritizing clean, scalable architecture in full-stack applications  
 Documenting journeys via blogs and open-source contributions
@@ -118,7 +102,7 @@ Developer Timelinetext
 2023 ─────────── Started Web Development Journey with Core Fundamentals  
 2024 ─────────── Built TaskVault and Initial Prototypes  
 2025 ─────────── Transitioned to Web3: Developed LoopFund, Staking Contracts, and Open-Source Contributions  
-2026 ─────────── Advanced Web3 Innovation: Created NexaVita (Starknet), Diverse-Trading Dashboard (Solana), and TX-Alert  
+2026 ─────────── Advanced Web3 Innovation: Created NexaVita (Starknet), Diverse-Trading Dashboard (Solana), TX-Alert, NexaPay Savings, and Solana HTTP Server  
 Future ───────── Scaling Ecosystems: Empowering Developers with Multi-Chain Tools and Global Collaborations
 
 <p align="center">
